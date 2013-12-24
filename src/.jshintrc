@@ -1,0 +1,10 @@
+{
+  "camelcase": true,
+  "curly": true,
+  "noarg": true,
+  "noempty": true,
+  "nonew": true,
+  "eqeqeq": true,
+  "quotmark": "single",
+  "undef": true
+}
