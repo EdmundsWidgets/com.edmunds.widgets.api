@@ -1,0 +1,9 @@
+{
+  "name": "com.edmunds.widgets.api",
+  "version": "0.0.1",
+  "description": "Edmunds Widgets API",
+  "private": true,
+  "scripts": {
+    "install": "bower install"
+  }
+}
